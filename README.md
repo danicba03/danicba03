@@ -14,7 +14,7 @@
 <!--Intro start-->
 <p align="left">
 <p>🚀 Apasionado por el desarrollo backend y las tecnologías web.</p>
-<p>📚 Actualmente cursando el segundo año de la Tecnicatura en Desarrollo de Software.</p>
+<p>📚 Actualmente cursando el segundo año de la Tecnicatura en Desarrollo de Software en el Instituto Superior Politécnico de Córdoba (ISPC).</p>
 <p>🎯 Objetivo: trabajar como desarrollador backend, seguir aprendiendo y aportar a proyectos de impacto.</p>
 <p>🛠 Metodologías: Scrum, GitFlow.</p>
 📫 Contacto: **dani.mercadolibre03@gmail.com**
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,mysql,html,css,git,github,js,ts,angular&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,git,github,js,ts,angular,linux,ubuntu&perline=12" />
   </a>
 </p>
 <br>
