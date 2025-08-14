@@ -10,13 +10,13 @@
 </p>
 <br>
 
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mí 😃</h2>
 <!--Intro start-->
 <p align="left">
-<p>🚀 Apasionado por el desarrollo backend y las tecnologías web.</p>
-<p>📚 Actualmente cursando el segundo año de la Tecnicatura en Desarrollo de Software en el Instituto Superior Politécnico de Córdoba (ISPC).</p>
-<p>🎯 Objetivo: trabajar como desarrollador backend, seguir aprendiendo y aportar a proyectos de impacto.</p>
-<p>🛠 Metodologías: Scrum, GitFlow.</p>
+<p>🚀 Estudiante apasionado por el desarrollo backend y las tecnologías web.</p>
+<p>📚 Actualmente curso el segundo año de la Tecnicatura en Desarrollo de Software en el Instituto Superior Politécnico de Córdoba (ISPC).</p>
+<p>🎯 Mi objetivo es desarrollarme como programador backend, continuar aprendiendo y contribuir a proyectos de impacto real.</p>
+<p>🛠 Trabajo con metodologías ágiles como Scrum y gestiono el flujo de versiones con GitFlow.</p>
 📫 Contacto: **dani.mercadolibre03@gmail.com**
 </p>
 <!--Intro end-->
@@ -36,9 +36,10 @@
 ---
 
 ## 📌 Proyectos destacados
-- **[ProfeSort](https://github.com/ProCoders-ISPC/ProfeSort)** – Maquetado HTML, CSS, JavaScript, TypeScript y Angular.   
+- **[ProfeSort](https://github.com/ProCoders-ISPC/ProfeSort)** – Desarrollo y maquetado con HTML, CSS, JavaScript, TypeScript y Angular.
+- **[Escalado de Plataforma IoT con Visualización de Datos en un Dashboard Web](https://wokwi.com/projects/413413392235150337)** – Simulación en Wokwi con sensor DHT22 y placa ESP32 conectados a un broker MQTT y visualización de datos en un dashboard.
 - **[Sistema de Gestión de Clientes](URL_AQUI)** – CRUD con MySQL y Python.  
-- **[Panel de Administración](URL_AQUI)** – Maquetado HTML, CSS, JavaScript y Angular.  
+- **[Panel de Administración](URL_AQUI)** – Desarrollo de interfaz administrativa con HTML, CSS, JavaScript y Angular.
 
 ---
 
@@ -49,6 +50,6 @@
 ---
 
 ## 🎯 Actualmente aprendiendo
-- JavaScript
+- JavaScript (profundización en conceptos avanzados)
 - TypeScript
 - Angular
